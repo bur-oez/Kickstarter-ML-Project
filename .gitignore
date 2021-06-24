@@ -6,11 +6,16 @@ __pycache__/
 # C extensions
 *.so
 
+<<<<<<< HEAD
 #
 .DS_Store
 __MACOSX/
 data/
 
+=======
+# Data 
+data/
+>>>>>>> e70672b75a1a3eb9ec160c160f185f95a5607a22
 # Distribution / packaging
 .Python
 build/
